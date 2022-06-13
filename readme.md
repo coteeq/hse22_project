@@ -1,4 +1,6 @@
 
+[colab](https://colab.research.google.com/drive/1peVbJk2SlNMqvEHYrgtiyWO4rYCkpigb?usp=sharing)
+
 ### Аннотация генов
 
 |name|n genes|genome len|coverage|
